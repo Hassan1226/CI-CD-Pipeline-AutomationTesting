@@ -11,7 +11,7 @@ An automated testing framework built using **Python**, **Playwright**, and **Pyt
 ---
 
 ## 📁 Project Structure
-
+```text
 CI-CD-Pipeline-AutomationTesting/
 │
 ├── .github/
