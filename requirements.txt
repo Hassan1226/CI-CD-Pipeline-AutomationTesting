@@ -1,6 +1,4 @@
 # Keep pytest and pytest-bdd versions compatible.
-# pytest-bdd 7.x expects pytest < 8; newer pytest versions removed the
-# internal FixtureManager API used by older pytest-bdd releases.
 pytest==7.4.4
 playwright==1.49.1
 pytest-playwright==0.7.0
